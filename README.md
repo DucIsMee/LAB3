@@ -1,1 +1,4 @@
 # LAB3
+Họ và tên: Bùi Minh Đức\
+MSV: 23810310110\
+Lớp: D18CNPM2
